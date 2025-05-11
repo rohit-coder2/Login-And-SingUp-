@@ -1,0 +1,1 @@
+export const beckEnd_url  = "https://localhost:2000";
